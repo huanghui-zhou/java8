@@ -5,6 +5,6 @@ package test;
  */
 public class github {
     public static void main(String[] str){
-        System.out.println("hello world github~~~");
+        System.out.println("hello world  123123 github~~~");
     }
 }
